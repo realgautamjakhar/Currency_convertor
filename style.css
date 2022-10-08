@@ -22,7 +22,7 @@ body {
 h1 {
     text-align: center;
 }
-#currency-convertor {
+#currency-converter {
     display: flex;
     flex-direction: column;
     text-align: center;
