@@ -1,7 +1,7 @@
 
 document.addEventListener("DOMContentLoaded", () => {
   document
-    .querySelector("#currency-convertor")
+    .querySelector("#currency-converter")
     .addEventListener("submit", (event) => {
       event.preventDefault(); //to prevent page refresh
 
